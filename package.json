@@ -35,7 +35,7 @@
 		"source-map": "0.1.x",
 		"node-appc": "0.1.30",
 		"semver": "2.1.x",
-		"es6-shim": "0.9.x"
+		"es6-shim": "0.32.2"
 	},
 	"devDependencies": {
 		"commander": "1.2.x",
